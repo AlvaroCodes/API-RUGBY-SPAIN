@@ -1,2 +1,2 @@
-# API-RUGBY-SPAIN
-API sobre la división de honor, España, Rugby
+# SCRAPER-RUGBY-SPAIN
+ℹ️ SCRAPER about the División de Honor, Spain, Rugby.
